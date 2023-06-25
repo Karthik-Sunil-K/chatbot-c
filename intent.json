@@ -1,0 +1,282 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey :-)",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "admission",
+        "patterns": [
+          "i want to take admission",
+          "admission details",
+          "admission",
+          "i need admission"
+        ],
+        "responses": [
+          "sure.What are the details you want to know "
+        ]
+      },
+      {
+        "tag": "Training placements",
+        "patterns": [
+          "placement",
+          "placements",
+          "training placements",
+          "how is placement trainings"
+        ],
+        "responses": [
+          "Students are placed for practicl training in various estalishments according to their area of interest and specialization. We condct mock interviews for the students ,to get the feel of actual interviews. Many successful students who are placed through the campus interviews have attributed their success to such practise interviews. The training involves apptitude training, analytical ,Quantitative,Logical 7 Reasoning Training and soft skills devolepment."
+        ]
+      },
+
+      {
+        "tag": "accreditation",
+        "patterns": [
+          "accreditation",
+          "what are the accreditations",
+          "Is the college NAAC accredited",
+          "what are the accreditations available"
+        ],
+        "responses": [
+          "Affiliated to A P J Abdul Kalam Technological University, accredited by NBA and approved by AICTE, ASIET is the first self-financing technical education center to be awarded the ISO 9001: 2008 certification."
+        ]
+      },
+      {
+        "tag": "transportation",
+        "patterns": [
+          "transportation",
+          "what are the transportation facilities",
+          "transportation details"
+        ],
+        "responses": [
+          "college bus facility to all major locations in Ernakulam,Thrissur,Alapuzha and Idukki Districts"
+        ]
+      },
+      {
+        "tag": "Quick facts",
+        "patterns": [
+          "Quick facts"
+        ],
+        "responses": [
+          "12CERTIFIED COURSES,82ADD ON COURSES,200% PLACEMENT OPPORTUNITIES/YEAR, 15INTERNATIONAL COLLABORATIONS"
+        ]
+      },
+      {
+        "tag": "Campus",
+        "patterns": [
+          "campus",
+          "how is campus"
+        ],
+        "responses": [
+          "ASIET campus stands apart with its unique and environment friendly infrastructure.The College is equipped with all modern facilities that ensures the comprehensive delivery of pedagogy and also reinforces the holistic and creative development of students.The college takes pride in being an all encompassing campus that is physically- challenged- friendly, providing ramps and lifts for the less fortunate friends. The sprawling campus houses many covetous facilities,IIPC,IEDC,TBI,FAB LAB,Library,Transportation,wellness clinic,International Yoga Centre"
+        ]
+      },
+      {
+        "tag": "college code",
+        "patterns": [
+          "college code",
+          "what is college code"
+        ],
+        "responses": [
+          "ASI"
+        ]
+      },
+      {
+        "tag": "Contact number",
+        "patterns": [
+          "Contact number",
+          "what is college contact number"
+        ],
+        "responses": [
+          "0484-2463825, 2466066, 2461933"
+        ]
+      },
+      {
+        "tag": "ASIET B.Tech Seat Matrix",
+        "patterns": [
+          "seat",
+          "seats",
+          "number of seats"
+        ],
+        "responses": [
+          "Civil engineering-60, Computer Science and engineering (NBA Accredited)-180, Computer Science and engineering (Artificial Intelligence)-60, Electronics and Communication engineering (NBA Accredited)-90, Electrical and Electronics engineering (NBA Accredited)-60, Mechanical engineering (NBA Accredited)-90, Robotics and Automation-60 "
+        ]
+      },
+      {
+        "tag": "ASIET B.Tech Admissions 2023",
+        "patterns": [
+          "admission"
+        ],
+        "responses": [
+          "The Adi Shankara Institute of Engineering and Technology offers a 4 years long B.Tech program under 7 different specializations via regular mode and charges a fee of INR 92,400 for the 1st year of its B.Tech program"
+        ]
+      },
+      {
+        "tag": "OUR TOP RECRUITERS",
+        "patterns": [
+          "top recruiters",
+          "our top recruiters"
+        ],
+        "responses": [
+          "Moulding Competent & Committed Professionals for the past 22 Years,EY,KPMG,accenture,byju's,cognizant,amazon,experion,federal ank,ge healthcare im,ibs software,infosys,mindtree,musigma,ola,south indian bank,tcs,ust,suyati,soti and much more"
+        ]
+      },
+      {
+        "tag": "NBA accredited branches",
+        "patterns": [
+          "NBA accredited branches",
+          "NBA"
+        ],
+        "responses": [
+          "computer science engineering ,electronics and communication engineering,electronics and electrical engineering,mechanical engineering"
+        ]
+      },
+      {
+        "tag": "location",
+        "patterns": [
+          "where is college located",
+          "location of college",
+          "where is college",
+          "location",
+          "located"
+        ],
+        "responses": [
+          "Centrally located campus at a distance of 6 km from cochin international airport, km from angamaly railway station and 800 mtrs frm MC road- 5CHJ+758 "
+        ]
+      },
+      {
+        "tag": "fee",
+        "patterns": [
+          "fee structure",
+          "fee details",
+          "what are the fee details",
+          "fees"
+        ],
+        "responses": [
+          "Govt.(all branches):93800(General), Govt.(all branches):63800(SC/ST), Govt.(all branches):63800(OEC)POIB, CS/AI/RB/AI -> NRI: 181300->MGMT:131300 ME/CE/EC/EEE -> NRI : 156300 -> MGMT: 111300"
+        ]
+      },
+      {
+        "tag": "extracurricular activities",
+        "patterns": [
+          "Extracurricular activities?",
+          "what are the Extracurricular activities?",
+          "sports",
+          "Sports, Arts details?"
+        ],
+        "responses": [
+          " Sports and Physical Fitness are prioritised on ASIET campus. Yoga, Kalari (training), Sports & games coaching dedicated centres are at various stages of actualization for 2023. Arts day is conducted every year to showcase students talents and passion "
+        ]
+      },
+      {
+        "tag": "scholarship",
+        "patterns":[
+          "scholarship details",
+          "is there any scholarship available for students",
+          "scholarship"
+        ],
+        "responses":[
+          "There are many scholarships provided for the students based on their 12th score and many other criterias."
+        ]
+      },
+      {
+        "tag": "courses",
+        "patterns": [
+          "what are the courses offered?",
+          "UG courses ?",
+          "Engineering courses?",
+          "courses offered",
+          "branches"
+        ],
+        "responses": [
+          "Btech programmes Civil Engineering Computer science engineering  Computer science engineering (Artificial intelligence) Computer science engineering ( Data science) Electronics and biomedical engineering Electronics and communication engineering Electrical and electronics engineering Mechanical engineering  Robotics and automation"
+        ]
+      },
+      {
+        "tag": "Eligibilities",
+        "patterns": [
+          "Eligibility criterias for admission?",
+          "Eligibilities?",
+          "What are the general requirements for college admission?",
+          "requirements",
+          "general requirements",
+          "general requirements for admission",
+          "selection criteria"
+        ],
+        "responses": [
+          "Generally there are 3 types of admissions provided namely Management Quota, Government Quota &NRI Quota. The  eligibility criterias depend upon the admission type"
+        ]
+      },
+      {
+        "tag": "government",
+        "patterns": [
+          "What are the requirements for government/Merit quota admission?",
+          "Government/Merit seat details?",
+          "goverment seats",
+          "Eligibility criteria for government/merit seats?",
+          "criteria for merit seat"
+        ],
+        "responses": [
+          "Nationality : Candidates must be citizens of india. Age: must have completed 17 years of age. Academic requirements: should have passed higher secondary exam of board of higher secondary education kerala or an exam equivalent to it with atleast 45% marks in Phy, Chem and Mathematics. Entrance exam : KEAM"
+        ]
+      },
+      {
+        "tag": "management",
+        "patterns": [
+          "What are the requirements for management quota admission?",
+          "Eligibility criterias for management quota?",
+          "Management quota details ?"
+
+        ],
+        "responses": [
+          "Nationality : Candidates must be citizens of india. Age: must have completed 17 years of age. Academic requirements: should have passed higher secondary exam of board of higher secondary education kerala or an exam equivalent to it with atleast 45% marks in Phy, Chem and Mathematics. Entrance exam : KEAM"
+        ]
+      },
+      {
+        "tag": "nri quota",
+        "patterns": [
+          "What are the requirements for NRI quota admission?",
+          "NRI quota details?",
+          "Eligibility criteria for NRI quota?"
+        ],
+        "responses": [
+          "15% of seats are for admitting qualified students who are dependent of Non-resident Indians.These students are exempted from qualifying in any entrance test and can be admitted based in their academic eligibility as stipulated by APJ Abdul Kalam Technological University. For further details on NRI admissions, Contact: Prof.Anitha P : +91 9446523599"
+        ]
+      },
+      {
+        "tag": "Hostel",
+        "patterns": [
+          "Accomodation details?",
+          "Hostel details?",
+          "hostel facilities"
+        ],
+        "responses": [
+          "Students are provided accommodation on seperate boys and girls hostel.To know more about Men's hostel visit : https://www.adishankara.ac.in/admission/boys-hostel-admissions To know more about Ladies hostel visit:https://www.adishankara.ac.in/admission/girls-hostel-admissions "
+        ]
+      },
+      {
+        "tag": "Contact details",
+        "patterns": [
+          "Contact details",
+          "College details",
+          "Contact number"
+        ],
+        "responses": [
+          "For more information. Adi Shankara Institue of Engineering & Technology, Vidya Bharathi Nagar,Mattoor,Kalady 683574, Ernakulam Dist,Kerala State. Prof. Anitha P (incharge of admission) : +91 9446523599 Mr. Jismon Jose (PRO) : +91 9995533744 Tel: 0484-2463825,2466066 Email: info@adishankara.ac.in"
+        ]
+      }
+    ]
+  }
